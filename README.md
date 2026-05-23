@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Passionate Full Stack Developer from India
+Full Stack Developer
 </h3>
 
 <p align="center">
