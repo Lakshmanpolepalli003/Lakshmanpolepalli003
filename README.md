@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>→ Crickverse – A complete cricket website (players, stadiums, ICC titles, live scores, Matches, Players Profiles)<br><br>I’m looking to collaborate on<br>→ Web development projects (frontend or full-stack)<br><br>I work with<br>→ Backend integration and API handling (real-time data)<br><br>Ask me about<br>→ HTML, CSS, JavaScript, Java, and building responsive websites<br><br>Fun fact<br>→ I love building real-world projects more than just theory
+I’m currently working on<br>→ <b>Crickverse – A complete cricket website (players, stadiums, ICC titles, live scores, Matches, Players Profiles)</b><br><br>I’m looking to collaborate on<br>→ Web development projects (frontend or full-stack)<br><br>I work with<br>→ Backend integration and API handling (real-time data)<br><br>Ask me about<br>→ HTML, CSS, JavaScript, Java, and building responsive websites<br><br>Fun fact<br>→ I love building real-world projects more than just theory
 
 
 ## 🌐 Socials:
