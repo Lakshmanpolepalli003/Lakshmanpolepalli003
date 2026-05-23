@@ -1,5 +1,17 @@
-# 💫 About Me:
-I’m currently working on<br>→ <b>Crickverse – A complete cricket website (players, stadiums, ICC titles, live scores, Matches, Players Profiles)</b><br><br>I’m looking to collaborate on<br>→ Web development projects (frontend or full-stack)<br><br>I work with<br>→ Backend integration and API handling (real-time data)<br><br>Ask me about<br>→ HTML, CSS, JavaScript, Java, and building responsive websites<br><br>Fun fact<br>→ I love building real-world projects more than just theory
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Lakshman+Polepalli;Full+Stack+Web+Developer;Building+Real+World+Projects" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+Passionate Full Stack Developer from India
+</h3>
+
+<p align="center">
+I love building modern websites, real-world applications, and creative UI designs.
+</p>
+ 
+ # 💫 About Me:
+I’m currently working on<br>→ <b>Crickverse – A complete cricket website (players, stadiums, ICC titles, live scores, Matches, Players Profiles)</b><br><br>I’m looking to collaborate on<br>→ <b>Web development projects (frontend or full-stack)</b><br><br>I work with<br>→ <b>Backend integration and API handling (real-time data)</b><br><br>Ask me about<br>→ <b>HTML, CSS, JavaScript, Java, React.Js and building responsive websites</b><br><br>Fun fact<br>→ <b>I love building real-world projects more than just theory</b>
 
 
 ## 🌐 Socials:
