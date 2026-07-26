@@ -11,7 +11,7 @@ I love building modern websites, real-world applications, and creative UI design
 </p>
  
  # 💫 About Me:
-I’m currently working on<br>→ <b>Ecommerce with Payment Integration – A complete Online Shopping website </b><br><br>I’m looking to collaborate on<br>→ <b>Web development projects (frontend or full-stack)</b><br><br>I work with<br>→ <b>Backend integration and API handling (real-time data)</b><br><br>Ask me about<br>→ <b>HTML, CSS, JavaScript, Python, React.Js and building responsive websites</b><br><br>Fun fact<br>→ <b>I love building real-world projects more than just theory</b>
+I’m currently working on<br>→ <b>CareerHub AI – authentication, OTP verification, resume creation, AI-powered career tools, coding assessments, job listings, dashboards, role-based access, and an admin portal. </b><br><br>I’m looking to collaborate on<br>→ <b>Web development projects (frontend or full-stack)</b><br><br>I work with<br>→ <b>Backend integration and API handling (real-time data)</b><br><br>Ask me about<br>→ <b>HTML, CSS, JavaScript, Python, React.Js and building responsive websites</b><br><br>Fun fact<br>→ <b>I love building real-world projects more than just theory</b>
 
 
 ## 🌐 Socials:
