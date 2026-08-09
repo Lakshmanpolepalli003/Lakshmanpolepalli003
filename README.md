@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=LAKSHMAN%20POLEPALLI&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Enthusiast&descAlignY=58&descSize=17&descColor=e9d5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=LAKSHMAN%20POLEPALLI&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=17&descColor=e9d5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+Developer;Java+%26+Python+Developer;Building+Real-World+Web+Applications;AI-Powered+Career+Tools;Always+Learning+%26+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;React.js+%7C+Django+Developer;Python+Developer;Building+Responsive+Web+Applications;RESTful+API+Development;Always+Learning+%26+Building" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-React%20%7C%20Java%20%7C%20Python-4C1D95?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-4C1D95?style=for-the-badge&logo=code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Lakshmanpolepalli003">
+<img src="https://img.shields.io/badge/Portfolio-View%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/polepalli-lakshman">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,219 +38,164 @@
 
 ---
 
-## 💫 About Me
+## About
 
-I’m a passionate **Full Stack Developer** focused on building responsive, practical, and real-world web applications.
+I am an enthusiastic **Full Stack Developer** with a solid foundation in **HTML, CSS, JavaScript, Python, SQL, and React.js**, with practical experience developing responsive and interactive web applications.
 
-Currently working on **CareerHub AI** — an AI-powered career platform featuring authentication, OTP verification, resume creation, AI-powered career tools, coding assessments, job listings, dashboards, role-based access control, and an admin portal.
+My development experience spans **front-end development, back-end development, RESTful APIs, database integration, authentication, session management, and clean coding practices**.
 
-I enjoy working across both frontend and backend development, with a strong interest in **API integration, real-time data handling, responsive UI development, and software engineering**.
+I enjoy transforming ideas into practical web applications and have hands-on experience with **Python, Django, React.js, MySQL, Git, GitHub, and Postman**.
 
-I believe the best way to learn software development is by building real-world products rather than focusing only on theory.
-
-### What I Do
-
-- Build responsive and user-friendly web applications
-- Develop frontend applications using React.js
-- Work with HTML, CSS, JavaScript, and Python
-- Build backend integrations and handle APIs
-- Work with real-time data
-- Develop authentication and role-based application flows
-- Explore AI-powered application development
-- Build practical full-stack projects
+My approach to development focuses on building responsive interfaces, creating maintainable application structures, integrating APIs, and continuously improving my software engineering skills.
 
 ### Open To
 
+- Full Stack Development Opportunities
+- Frontend Development Opportunities
+- Python / Django Development
+- React.js Development
+- RESTful API Development
 - Web Development Projects
-- Frontend Development
-- Full Stack Development
-- React.js Projects
-- Backend API Integration
-- AI-powered Web Applications
-- Collaborative Development Projects
+- Collaborative Software Projects
+- Entry-Level Software Engineering Roles
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| AI-Powered Applications | Intermediate | Building AI-powered features for practical web applications |
-| Career AI Tools | Intermediate | Working on AI-powered career tools as part of CareerHub AI |
-| AI-Assisted Development | Intermediate | Exploring AI tools and workflows for modern software development |
-| Intelligent Web Applications | Intermediate | Integrating AI capabilities into real-world web application workflows |
-| Machine Learning | Foundational | Continuously exploring ML concepts and practical applications |
+| AI / ML Fundamentals | Exploring | Currently expanding knowledge of modern AI and machine-learning concepts |
+| AI-Powered Applications | Exploring | Interested in applying AI capabilities to practical web applications |
+| AI-Assisted Development | Exploring | Exploring AI-assisted workflows for modern software development |
+| Intelligent Web Applications | Exploring | Interested in combining full-stack development with emerging AI technologies |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><strong>CareerHub AI</strong></summary>
+<summary><strong>Campus Hire 360</strong></summary>
 
 <br/>
 
-**CareerHub AI** is an AI-powered career platform designed to provide users with a complete career development and job-search experience.
+**Campus Hire 360** is a web application designed to help colleges digitally manage the campus placement process.
 
-The platform combines authentication, career tools, resume creation, coding assessments, job listings, dashboards, role-based access, and administrative functionality into a unified web application.
+The platform provides dedicated functionality for **Students, Placement Officers, and Recruiters**, with role-based access and recruiter-oriented placement workflows.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | React.js, JavaScript, Python, APIs |
-| **Scale** | Full Stack Career Platform |
-| **Performance** | Real-time API integration and responsive application workflows |
-| **Security** | Authentication, OTP Verification, Role-Based Access |
-| **Impact** | Provides multiple career-development tools within one platform |
+| **Stack** | React.js, Django, Python, SQL, Git, GitHub |
+| **Scale** | Full Stack Campus Placement Platform |
+| **Performance** | Responsive web application with structured application workflows |
+| **Security** | Role-Based Access for Students, Placement Officers, and Recruiters |
+| **Impact** | Digitizes and streamlines campus placement management |
 | **Repository** | [GitHub](https://github.com/Lakshmanpolepalli003) |
 
 ### Engineering Highlights
 
-- Authentication and user access management
-- OTP verification workflow
-- Resume creation functionality
-- AI-powered career tools
-- Coding assessment functionality
-- Job listing integration
-- User dashboards
-- Role-based access control
-- Admin portal
-- Backend API integration
-- Real-time data handling
-- Responsive frontend development
-
-</details>
-
-<details>
-<summary><strong>Organic Farm Website</strong></summary>
-
-<br/>
-
-A clean and modern responsive website designed to provide a user-friendly experience across desktop, tablet, and mobile devices.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, Git, GitHub |
-| **Scale** | Responsive Web Application |
-| **Performance** | Optimized for speed and user experience |
-| **Security** | Static client-side application |
-| **Impact** | Responsive experience across multiple devices |
-| **Repository** | [GitHub](https://github.com/Lakshmanpolepalli003) |
-
-### Engineering Highlights
-
-- Designed and developed a modern responsive website
-- Implemented responsive layouts
-- Focused on usability and user experience
-- Optimized the website for performance
+- Developed a full-stack campus placement management application
+- Built dedicated modules for Students, Placement Officers, and Recruiters
+- Implemented role-based access
+- Developed recruiter functionality for posting job openings
+- Added eligibility criteria management
+- Implemented candidate shortlisting workflows
+- Used React.js for frontend development
+- Used Django and Python for backend development
+- Integrated SQL database functionality
 - Used Git and GitHub for version control
-- Deployed using GitHub Pages
-- Used GitHub Actions for deployment workflow
+- Deployed using GitHub Pages and GitHub Actions
 
 </details>
 
 <details>
-<summary><strong>Employee Management REST API</strong></summary>
+<summary><strong>Personal Portfolio Website</strong></summary>
 
 <br/>
 
-A backend REST API developed during the **Hewlett Packard Enterprise Software Engineering Job Simulation on Forage**.
+A fully responsive personal portfolio website developed to showcase projects, technical skills, certifications, and resume information.
 
-The project focused on handling HTTP requests, processing JSON data, managing employee information, service architecture, and unit testing.
+The website focuses on responsive design and provides an adaptable experience across desktop, tablet, and mobile devices.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Java, Spring Boot, REST API, JSON |
-| **Scale** | Backend REST Service |
-| **Performance** | Unit testing and reliability-focused implementation |
-| **Security** | Structured backend service architecture |
-| **Impact** | Practical enterprise-style backend development experience |
+| **Stack** | React.js, SQL, Git, GitHub |
+| **Scale** | Responsive Personal Portfolio |
+| **Performance** | Optimized for desktop, tablet, and mobile devices |
+| **Security** | Application-level implementation |
+| **Impact** | Professional platform for presenting projects, skills, certifications, and resume |
 | **Repository** | [GitHub](https://github.com/Lakshmanpolepalli003) |
 
 ### Engineering Highlights
 
-- Built a REST API using Java and Spring Boot
-- Handled HTTP requests
-- Processed JSON data
-- Implemented employee management functionality
-- Designed service architecture
-- Implemented unit testing
-- Focused on reliability and performance
+- Developed a fully responsive portfolio website
+- Created sections for projects and technical skills
+- Added certification and resume presentation
+- Implemented Light / Dark mode
+- Optimized layouts for desktop devices
+- Optimized layouts for tablet devices
+- Optimized layouts for mobile devices
+- Used Git and GitHub for version control
 
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Software Engineering Job Simulation — Hewlett Packard Enterprise
+### Software Programmer — iGenuine
 
-**Forage · April 2026**
+**Intern – Software Engineering (Python) · May 2025 – July 2025**
 
-Completed a software engineering job simulation focused on backend application development, REST APIs, service architecture, and testing.
-
-**Scope of Work**
-
-- Built a Java Spring Boot REST API
-- Handled HTTP requests and JSON data
-- Developed employee management functionality
-- Designed backend service architecture
-- Implemented unit testing
-- Focused on performance and reliability
-
-**Skills**
-
-`Java` `Spring Boot` `REST API` `JSON` `Unit Testing` `Backend Development`
-
-### Full Stack Development Training — iGenuine Learning Platform
-
-**Campus Program · July 2025 – January 2026**
-
-Completed practical full stack development training focused on frontend development, REST APIs, databases, and version control.
+Worked as a Software Programmer Intern with a focus on Python-based full-stack web development and responsive application development.
 
 **Scope of Work**
 
-- Designed and developed dynamic responsive websites
-- Worked with HTML, CSS, and JavaScript
-- Worked with REST APIs
-- Retrieved and displayed data from databases
-- Practiced Git and GitHub workflows
-- Maintained personal learning repositories
+- Developed full-stack responsive web applications
+- Built user-friendly interfaces using HTML and CSS
+- Implemented frontend functionality using JavaScript and React.js
+- Developed backend functionality using Python and Django
+- Implemented user authentication
+- Implemented form validation
+- Worked with session management
+- Used Git and GitHub for version control
+- Collaborated on projects using GitHub workflows
 
 **Skills**
 
-`HTML` `CSS` `JavaScript` `REST APIs` `Git` `GitHub`
+`Python` `Django` `HTML` `CSS` `JavaScript` `React.js` `Git` `GitHub`
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -259,33 +204,50 @@ Completed practical full stack development training focused on frontend developm
 | **Academic Performance** | Bachelor of Technology in Computer Science and Engineering — **8.6 / 10 CGPA** |
 | **Intermediate Performance** | Intermediate Education — **90.0%** |
 | **School Performance** | SSC — **10 / 10 CGPA** |
-| **HPE Engineering Simulation** | Completed Software Engineering Job Simulation through Forage |
-| **Full Stack Training** | Completed Full Stack Development Campus Program |
-| **Real-World Development** | Building CareerHub AI with authentication, AI tools, assessments, jobs, dashboards, and admin functionality |
+| **Software Engineering Internship** | Software Programmer Intern at iGenuine |
+| **Full Stack Development** | Hands-on experience building responsive full-stack web applications |
+| **Campus Placement Platform** | Developed Campus Hire 360 for digital campus placement management |
+| **Responsive Development** | Built applications optimized for desktop, tablet, and mobile devices |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ### Udemy
 
-<img src="https://img.shields.io/badge/HTML-Certified-6D28D9?style=for-the-badge&logo=udemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Certified-7C3AED?style=for-the-badge&logo=udemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Certified-4C1D95?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-HTML-C084FC?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-CSS-A78BFA?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-JavaScript-7C3AED?style=for-the-badge&logo=udemy&logoColor=white"/>
 
 ### GeeksforGeeks
 
-<img src="https://img.shields.io/badge/Java-Certified-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Python-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
-### Hewlett Packard Enterprise — Forage
+### HackerRank
 
-<img src="https://img.shields.io/badge/HPE-Backend%20Development%20Virtual%20Job%20Simulation-4C1D95?style=for-the-badge&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Exploring-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Exploring-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Exploring-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Exploring-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 ---
 
-## 🌐 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -309,7 +271,7 @@ Completed practical full stack development training focused on frontend developm
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -329,7 +291,7 @@ Completed practical full stack development training focused on frontend developm
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -339,7 +301,7 @@ Completed practical full stack development training focused on frontend developm
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -349,7 +311,7 @@ Completed practical full stack development training focused on frontend developm
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -359,42 +321,42 @@ Completed practical full stack development training focused on frontend developm
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
   - Advanced React.js
   - Python Development
-  - Java Backend Development
-  - Spring Boot
+  - Django
+  - RESTful API Development
   - SQL & Database Development
-  - AI-Powered Application Development
+  - Software Engineering Practices
+  - AI / ML Fundamentals
 
 Building:
-  - CareerHub AI
-  - Authentication & OTP Verification
-  - AI-Powered Career Tools
-  - Resume Creation Systems
-  - Coding Assessment Features
-  - Job Listing Systems
-  - User Dashboards
-  - Role-Based Access Control
-  - Admin Portals
-  - Responsive Web Applications
+  - Campus Hire 360
+  - Full Stack Web Applications
+  - Responsive React.js Interfaces
+  - Django Backend Applications
+  - RESTful APIs
+  - Role-Based Access Systems
+  - Real-World Web Development Projects
 
 Exploring:
   - Artificial Intelligence
   - Machine Learning
-  - AI Integration
-  - Real-Time API Integration
+  - AI-Powered Applications
   - Modern Full Stack Development
-  - Software Engineering Practices
+  - API Integration
+  - Real-Time Web Applications
+  - Modern Software Engineering Practices
 
 Open To:
-  - Web Development Projects
-  - Frontend Development
   - Full Stack Development
-  - React.js Projects
-  - Backend API Integration
-  - AI-Powered Web Applications
-  - Collaborative Projects
+  - Frontend Development
+  - React.js Development
+  - Python / Django Development
+  - RESTful API Development
+  - Web Development Projects
+  - Collaborative Software Projects
+  - Software Engineering Opportunities
