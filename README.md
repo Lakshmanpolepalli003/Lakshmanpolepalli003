@@ -28,6 +28,7 @@ I’m currently working on<br>→ <b>CareerHub AI – authentication, OTP verifi
 ![](https://github-profile-trophy.vercel.app/?username=Lakshmanpolepalli003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lakshmanpolepalli003&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Lakshmanpolepalli003&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+[![](https://komarev.com/ghpvc/?username=Lakshmanpolepalli003&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
