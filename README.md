@@ -1,4 +1,12 @@
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lakshmanpolepalli003/Lakshmanpolepalli003/main/dark.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Lakshmanpolepalli003/Lakshmanpolepalli003/main/dark.svg"
+    alt="Lakshman Polepalli GitHub Profile">
+</picture><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Lakshman+Polepalli;Full+Stack+Web+Developer;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
 
