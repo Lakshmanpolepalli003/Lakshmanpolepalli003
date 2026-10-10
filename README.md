@@ -1,9 +1,5 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Lakshmanpolepalli003's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img alt="Lakshmanpolepalli003's GitHub ASCII profile card" src="dark_mode.svg" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Lakshman+Polepalli;Full+Stack+Web+Developer;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
