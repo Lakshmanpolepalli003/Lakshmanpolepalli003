@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/Lakshmanpolepalli003?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/Lakshmanpolepalli003?theme=light" />
+  <img alt="Lakshmanpolepalli003's GitHub profile" src="https://gh.crafter.run/Lakshmanpolepalli003?theme=dark" width="100%" />
+</picture>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=7A5CFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Lakshman+Polepalli;Full+Stack+Web+Developer;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
